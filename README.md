@@ -24,5 +24,8 @@ Wymagane pakiety (instalowane poprzez wpisanie w wierszu poleceń "pip install <
 - matplotlib.pyplot
 - seaborn
 - notebook
+- PyTorch
+- livelossplot
+- collections
 
 Aby uruchomić projekt, w wierszu poleceń, w folderze, w którym znajduje się projekt, wpisujemy komendę "jupyter notebook". Jupyter uruchomi się w przeglądarce i będziemy mieli możliwość otwarcia interesującego nas pliku.
